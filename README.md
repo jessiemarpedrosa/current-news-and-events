@@ -1,4 +1,4 @@
-# vue-manito
+# Current News & Events v1.0
 
 ## Project setup
 ```
